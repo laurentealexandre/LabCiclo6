@@ -1,0 +1,36 @@
+.trails {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .trails h2 {
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  .trails select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .trails ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .trails li {
+    background-color: #ecf0f1;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .trails li:hover {
+    background-color: #e0e6e8;
+  }
+  
